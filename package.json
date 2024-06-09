@@ -1,12 +1,9 @@
 {
-  "homepage": "https://PhokRithy/github.io/Rithy_BBU",
   "name": "first-react",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "start": "vite",
     "dev": "vite",
     "build": "vite build",
